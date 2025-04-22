@@ -1,0 +1,1 @@
+# 移民系統 - 可部署正式版\n修正 TypeScript 缺失，可成功部署於 Vercel。
